@@ -17,9 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# 🔈 About Me
 Currently I am a PhD student in the Information Systems Technology and Design (ISTD) pillar at the **Singapore University of Technology and Design (SUTD)**, where I joined in September 2024. I am fortunate to be supervised by Professor [Wenxuan Zhang](https://isakzhang.github.io/) and to be a member of the [iNLP Lab](https://isakzhang.github.io/group.html) at SUTD. My research focuses on **Natural Language Processing (NLP)**, with interests spanning large language model reasoning and efficiency.
 
 Before joining SUTD, I received my Master of Library & Information Science from **East China Normal University** (2022–2024). Prior to that, I completed dual bachelor's degrees — in Business Administration from **East China Normal University** and in Global BBA from **Emlyon Business School** (2018–2022).
+
+📧 chen_huang[at]mymail[dot]sutd[dot]edu[dot]sg
 
 
 # 🔥 News and Events
