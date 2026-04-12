@@ -30,7 +30,7 @@ I hold a Master of Library & Information Science from **East China Normal Univer
 
 # 📝 Publications 
 
-- [Text Clustering as Classification with LLMs](https://dl.acm.org/doi/pdf/10.1145/3767695.3769519), **C. Huang**, G. He, *Proceedings of SIGIR 2025*
+- [Text Clustering as Classification with LLMs](https://dl.acm.org/doi/pdf/10.1145/3767695.3769519), **C. Huang**, G. He, *Proceedings of SIGIR-AP 2025*
 
 - [Through the Valley: Path to Effective Long CoT Training for Small Language Models](https://aclanthology.org/2025.emnlp-main.251.pdf), R. Luo, J. Li, **C. Huang**, W. Lu, *Proceedings of EMNLP 2025*
 
@@ -39,9 +39,6 @@ I hold a Master of Library & Information Science from **East China Normal Univer
 - [Few-Shot Medical Relation Extraction via Prompt Tuning Enhanced Pre-trained Language Model](https://www.sciencedirect.com/science/article/abs/pii/S0925231225004242), G. He, **C. Huang**, *Neurocomputing 633, 129752, 2025*
 
 - [MoltNet: Understanding Social Behavior of AI Agents in the Agent-Native MoltBook](https://arxiv.org/abs/2602.13458), Y. Feng, **C. Huang**, Z. Man, R. Tan, L.P. Hoang, S. Xu, W. Zhang, *arXiv preprint arXiv:2602.13458, 2026*
-
-# 🎖 Honors and Awards
-- *(to be updated)*
 
 # 📖 Educations
 - *2024.09 - 2029.06 (expected)*, Doctor of Philosophy (PhD), Information Systems Technology and Design (ISTD), **Singapore University of Technology and Design (SUTD)**, Singapore.

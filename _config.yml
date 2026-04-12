@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Chen Huang"
   avatar           : "images/avatar.jpg"
-  bio              : "PhD Student @ SUTD · NLP Researcher"
+  bio              : "PhD Student @ SUTD"
   location         : "Singapore"
-  employer         : "Singapore University of Technology and Design"
+  employer         : "SUTD"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=FZh5-XYAAAAJ&hl=en"
-  email            : "chenhuang@mymail.sutd.edu.sg"
+  email            : "chen_huang@mymail.sutd.edu.sg"
   researchgate     :
   uri              :
   bitbucket        :
