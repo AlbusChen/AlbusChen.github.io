@@ -28,7 +28,7 @@ Before joining SUTD, I received my Master of Library & Information Science from 
 # 🔥 News and Events
 - *2026.04*: &nbsp;🌟 I will be attending **ICLR 2026** in Rio de Janeiro, Brazil. If you are around, feel free to reach out — always happy to connect!
 - *2026.02*: &nbsp;🎉 New project [MoltNet](https://inlp-lab.github.io/MoltNet/) — understanding social behavior of AI agents in the agent-native MoltBook — is now available on arXiv.
-- *2025.10*: &nbsp;🎉 Paper "PEAR: Phase Entropy Aware Reward for Efficient Reasoning" accepted at **ICLR 2026**.
+- *2026*: &nbsp;🎉 Paper "PEAR: Phase Entropy Aware Reward for Efficient Reasoning" accepted at **ICLR 2026**.
 - *2025*: &nbsp;🎉 Paper "Text Clustering as Classification with LLMs" accepted at **SIGIR-AP 2025**.
 - *2025*: &nbsp;🎉 Paper "Through the Valley: Path to Effective Long CoT Training for Small Language Models" accepted at **EMNLP 2025**.
 
