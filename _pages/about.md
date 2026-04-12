@@ -17,17 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student in the Information Systems Technology and Design (ISTD) pillar at the **Singapore University of Technology and Design (SUTD)**, where I joined in September 2024. My research focuses on **Natural Language Processing (NLP)**, with interests spanning large language model reasoning, efficient training of small language models, and text understanding.
+I am a PhD student in the Information Systems Technology and Design (ISTD) pillar at the **Singapore University of Technology and Design (SUTD)**, where I joined in September 2024. I am fortunate to be supervised by Professor [Wenxuan Zhang](https://isakzhang.github.io/) and to be a member of the [iNLP Lab](https://isakzhang.github.io/group.html) at SUTD. My research focuses on **Natural Language Processing (NLP)**, with interests spanning large language model reasoning, efficient training of small language models, and text understanding.
 
 I hold a Master of Library & Information Science from **East China Normal University** (2022–2024) and dual bachelor's degrees in Business Administration from East China Normal University and Global BBA from **emlyon business school** (2018–2022).
-
-I have published at top venues including SIGIR and EMNLP, with total <a href='https://scholar.google.com/citations?user=FZh5-XYAAAAJ&hl=en'>google scholar citations <strong><span id='total_cit'>50+</span></strong></a> <a href='https://scholar.google.com/citations?user=FZh5-XYAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 
 # 🔥 News
 - *2026.02*: &nbsp;🎉 New preprint "MoltNet: Understanding Social Behavior of AI Agents in the Agent-Native MoltBook" is available on arXiv.
 - *2025.10*: &nbsp;🎉 Paper "PEAR: Phase Entropy Aware Reward for Efficient Reasoning" accepted at **ICLR 2026**.
-- *2025*: &nbsp;🎉 Paper "Text Clustering as Classification with LLMs" accepted at **SIGIR 2025**.
+- *2025*: &nbsp;🎉 Paper "Text Clustering as Classification with LLMs" accepted at **SIGIR-AP 2025**.
 - *2025*: &nbsp;🎉 Paper "Through the Valley: Path to Effective Long CoT Training for Small Language Models" accepted at **EMNLP 2025**.
 
 # 📝 Publications 
