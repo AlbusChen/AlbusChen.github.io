@@ -17,18 +17,21 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student in the Information Systems Technology and Design (ISTD) pillar at the **Singapore University of Technology and Design (SUTD)**, where I joined in September 2024. I am fortunate to be supervised by Professor [Wenxuan Zhang](https://isakzhang.github.io/) and to be a member of the [iNLP Lab](https://isakzhang.github.io/group.html) at SUTD. My research focuses on **Natural Language Processing (NLP)**, with interests spanning large language model reasoning, efficient training of small language models, and text understanding.
+Currently I am a PhD student in the Information Systems Technology and Design (ISTD) pillar at the **Singapore University of Technology and Design (SUTD)**, where I joined in September 2024. I am fortunate to be supervised by Professor [Wenxuan Zhang](https://isakzhang.github.io/) and to be a member of the [iNLP Lab](https://isakzhang.github.io/group.html) at SUTD. My research focuses on **Natural Language Processing (NLP)**, with interests spanning large language model reasoning and efficiency.
 
-I hold a Master of Library & Information Science from **East China Normal University** (2022–2024) and dual bachelor's degrees in Business Administration from East China Normal University and Global BBA from **emlyon business school** (2018–2022).
+Before joining SUTD, I received my Master of Library & Information Science from **East China Normal University** (2022–2024). Prior to that, I completed dual bachelor's degrees — in Business Administration from **East China Normal University** and in Global BBA from **Emlyon Business School** (2018–2022).
 
 
-# 🔥 News
-- *2026.02*: &nbsp;🎉 New preprint "MoltNet: Understanding Social Behavior of AI Agents in the Agent-Native MoltBook" is available on arXiv.
+# 🔥 News and Events
+- *2026.04*: &nbsp;🌟 I will be attending **ICLR 2026** in Rio de Janeiro, Brazil. If you are around, feel free to reach out — always happy to connect!
+- *2026.02*: &nbsp;🎉 New project [MoltNet](https://inlp-lab.github.io/MoltNet/) — understanding social behavior of AI agents in the agent-native MoltBook — is now available on arXiv.
 - *2025.10*: &nbsp;🎉 Paper "PEAR: Phase Entropy Aware Reward for Efficient Reasoning" accepted at **ICLR 2026**.
 - *2025*: &nbsp;🎉 Paper "Text Clustering as Classification with LLMs" accepted at **SIGIR-AP 2025**.
 - *2025*: &nbsp;🎉 Paper "Through the Valley: Path to Effective Long CoT Training for Small Language Models" accepted at **EMNLP 2025**.
 
 # 📝 Publications 
+
+- [MoltNet: Understanding Social Behavior of AI Agents in the Agent-Native MoltBook](https://arxiv.org/abs/2602.13458), Y. Feng, **C. Huang**, Z. Man, R. Tan, L.P. Hoang, S. Xu, W. Zhang, *arXiv preprint arXiv:2602.13458, 2026* \| [[Project Page]](https://inlp-lab.github.io/MoltNet/)
 
 - [Text Clustering as Classification with LLMs](https://dl.acm.org/doi/pdf/10.1145/3767695.3769519), **C. Huang**, G. He, *Proceedings of SIGIR-AP 2025*
 
@@ -38,13 +41,11 @@ I hold a Master of Library & Information Science from **East China Normal Univer
 
 - [Few-Shot Medical Relation Extraction via Prompt Tuning Enhanced Pre-trained Language Model](https://www.sciencedirect.com/science/article/abs/pii/S0925231225004242), G. He, **C. Huang**, *Neurocomputing 633, 129752, 2025*
 
-- [MoltNet: Understanding Social Behavior of AI Agents in the Agent-Native MoltBook](https://arxiv.org/abs/2602.13458), Y. Feng, **C. Huang**, Z. Man, R. Tan, L.P. Hoang, S. Xu, W. Zhang, *arXiv preprint arXiv:2602.13458, 2026*
-
 # 📖 Educations
 - *2024.09 - 2029.06 (expected)*, Doctor of Philosophy (PhD), Information Systems Technology and Design (ISTD), **Singapore University of Technology and Design (SUTD)**, Singapore.
 - *2022.09 - 2024.06*, Master of Library & Information Science (MLIS), **East China Normal University**, Shanghai, China. Main research focus: Natural Language Processing.
-- *2020.00 - 2022.00*, Bachelor, Global Bachelor Business Administration, **emlyon business school**, France.
-- *2018.09 - 2022.06*, Bachelor, Business Administration, **East China Normal University**, Shanghai, China.
+- *2020.09 - 2022.06*, Bachelor, Global Bachelor Business Administration, **Emlyon Business School**, France.
+- *2018.09 - 2020.06*, Bachelor, Business Administration, **East China Normal University**, Shanghai, China.
 
 # 💻 Internships
 - *2023.05 - 2023.11*, NLP Intern, **China Pacific Insurance (Group) Co Ltd (CPIC)**, Shanghai, China.
