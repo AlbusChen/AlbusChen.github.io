@@ -25,14 +25,21 @@ Before joining SUTD, I received my Master of Library & Information Science from 
 📧 chen_huang[at]mymail[dot]sutd[dot]edu[dot]sg
 
 
+<span class='anchor' id='news'></span>
+
 # 🔥 News and Events
+- *2026.06*: &nbsp;🎉 New preprint [What Should Agents Say? Action-state Communication for Efficient Multi-Agent Systems](https://arxiv.org/abs/2606.05304) is now available on arXiv. \| [[Code]](https://github.com/iNLP-Lab/PACT)
 - *2026.04*: &nbsp;🌟 I will be attending **ICLR 2026** in Rio de Janeiro, Brazil. If you are around, feel free to reach out — always happy to connect!
 - *2026.02*: &nbsp;🎉 New project [MoltNet](https://inlp-lab.github.io/MoltNet/) — understanding social behavior of AI agents in the agent-native MoltBook — is now available on arXiv.
 - *2026*: &nbsp;🎉 Paper "PEAR: Phase Entropy Aware Reward for Efficient Reasoning" accepted at **ICLR 2026**.
 - *2025*: &nbsp;🎉 Paper "Text Clustering as Classification with LLMs" accepted at **SIGIR-AP 2025**.
 - *2025*: &nbsp;🎉 Paper "Through the Valley: Path to Effective Long CoT Training for Small Language Models" accepted at **EMNLP 2025**.
 
+<span class='anchor' id='publications'></span>
+
 # 📝 Publications 
+
+- [What Should Agents Say? Action-state Communication for Efficient Multi-Agent Systems](https://arxiv.org/abs/2606.05304), **C. Huang**, Y. Wu, W. Zhang, *arXiv preprint arXiv:2606.05304, 2026* \| [[Code]](https://github.com/iNLP-Lab/PACT)
 
 - [MoltNet: Understanding Social Behavior of AI Agents in the Agent-Native MoltBook](https://arxiv.org/abs/2602.13458), Y. Feng, **C. Huang**, Z. Man, R. Tan, L.P. Hoang, S. Xu, W. Zhang, *arXiv preprint arXiv:2602.13458, 2026* \| [[Project Page]](https://inlp-lab.github.io/MoltNet/)
 
@@ -44,11 +51,15 @@ Before joining SUTD, I received my Master of Library & Information Science from 
 
 - [Few-Shot Medical Relation Extraction via Prompt Tuning Enhanced Pre-trained Language Model](https://www.sciencedirect.com/science/article/abs/pii/S0925231225004242), G. He, **C. Huang**, *Neurocomputing 633, 129752, 2025*
 
+<span class='anchor' id='educations'></span>
+
 # 📖 Educations
 - *2024.09 - 2029.06 (expected)*, Doctor of Philosophy (PhD), Information Systems Technology and Design (ISTD), **Singapore University of Technology and Design (SUTD)**, Singapore.
 - *2022.09 - 2024.06*, Master of Library & Information Science (MLIS), **East China Normal University**, Shanghai, China. Main research focus: Natural Language Processing.
 - *2020.09 - 2022.06*, Bachelor, Global Bachelor Business Administration, **Emlyon Business School**, France.
 - *2018.09 - 2020.06*, Bachelor, Business Administration, **East China Normal University**, Shanghai, China.
+
+<span class='anchor' id='internships'></span>
 
 # 💻 Internships
 - *2023.05 - 2023.11*, NLP Intern, **China Pacific Insurance (Group) Co Ltd (CPIC)**, Shanghai, China.
