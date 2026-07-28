@@ -28,6 +28,7 @@ Before joining SUTD, I received my Master of Library & Information Science from 
 <span class='anchor' id='news'></span>
 
 # 🔥 News and Events
+- *2026.07*: &nbsp;🎉 Paper "MoltNet: Understanding Social Behavior of AI Agents in the Agent-Native MoltBook" accepted to **COLM 2026**. It was also accepted to the **COLM 2026 Workshop on Agent Behavior**.
 - *2026.06*: &nbsp;🎉 New preprint "What Should Agents Say? Action-state Communication for Efficient Multi-Agent Systems" is now available on arXiv.
 - *2026.04*: &nbsp;🌟 I will be attending **ICLR 2026** in Rio de Janeiro, Brazil. If you are around, feel free to reach out — always happy to connect!
 - *2026.02*: &nbsp;🎉 New project [MoltNet](https://inlp-lab.github.io/MoltNet/) — understanding social behavior of AI agents in the agent-native MoltBook — is now available on arXiv.
@@ -41,7 +42,7 @@ Before joining SUTD, I received my Master of Library & Information Science from 
 
 - [What Should Agents Say? Action-state Communication for Efficient Multi-Agent Systems](https://arxiv.org/abs/2606.05304), **C. Huang**, Y. Wu, W. Zhang, *arXiv preprint arXiv:2606.05304, 2026* \| [[Code]](https://github.com/iNLP-Lab/PACT)
 
-- [MoltNet: Understanding Social Behavior of AI Agents in the Agent-Native MoltBook](https://arxiv.org/abs/2602.13458), Y. Feng, **C. Huang**, Z. Man, R. Tan, L.P. Hoang, S. Xu, W. Zhang, *arXiv preprint arXiv:2602.13458, 2026* \| [[Project Page]](https://inlp-lab.github.io/MoltNet/)
+- [MoltNet: Understanding Social Behavior of AI Agents in the Agent-Native MoltBook](https://arxiv.org/abs/2602.13458), Y. Feng, **C. Huang**, Z. Man, R. Tan, L.P. Hoang, S. Xu, W. Zhang, *COLM 2026* \| [[Project Page]](https://inlp-lab.github.io/MoltNet/)
 
 - [PEAR: Phase Entropy Aware Reward for Efficient Reasoning](https://arxiv.org/abs/2510.08026), **C. Huang**, W. Lu, W. Zhang, *ICLR 2026* \| [[Code]](https://github.com/iNLP-Lab/PEAR)
 
