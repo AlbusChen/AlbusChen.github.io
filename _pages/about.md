@@ -52,6 +52,12 @@ Before joining SUTD, I received my Master of Library & Information Science from 
 
 - [Few-Shot Medical Relation Extraction via Prompt Tuning Enhanced Pre-trained Language Model](https://www.sciencedirect.com/science/article/abs/pii/S0925231225004242), G. He, **C. Huang**, *Neurocomputing 633, 129752, 2025*
 
+<span class='anchor' id='projects'></span>
+
+# 💡 Projects
+
+- [GameForge-Harness](https://albuschen.github.io/GameForge-Harness/): An open game-development harness that gives AI agents room to build and independently verifies the games they deliver.
+
 <span class='anchor' id='educations'></span>
 
 # 📖 Educations
