@@ -28,6 +28,7 @@ Before joining SUTD, I received my Master of Library & Information Science from 
 <span class='anchor' id='news'></span>
 
 # 🔥 News and Events
+- *2026.10*: &nbsp;🌟 I will be attending **COLM 2026** in San Francisco. If you are around, feel free to reach out — I would be happy to connect!
 - *2026.07*: &nbsp;🎉 Paper "MoltNet: Understanding Social Behavior of AI Agents in the Agent-Native MoltBook" accepted to **COLM 2026**. It was also accepted to the **COLM 2026 Workshop on Agent Behavior**.
 - *2026.06*: &nbsp;🎉 New preprint "What Should Agents Say? Action-state Communication for Efficient Multi-Agent Systems" is now available on arXiv.
 - *2026.04*: &nbsp;🌟 I will be attending **ICLR 2026** in Rio de Janeiro, Brazil. If you are around, feel free to reach out — always happy to connect!
@@ -44,7 +45,7 @@ Before joining SUTD, I received my Master of Library & Information Science from 
 
 - [MoltNet: Understanding Social Behavior of AI Agents in the Agent-Native MoltBook](https://arxiv.org/abs/2602.13458), Y. Feng, **C. Huang**, Z. Man, R. Tan, L.P. Hoang, S. Xu, W. Zhang, *COLM 2026* \| [[Project Page]](https://inlp-lab.github.io/MoltNet/)
 
-- [PEAR: Phase Entropy Aware Reward for Efficient Reasoning](https://arxiv.org/abs/2510.08026), **C. Huang**, W. Lu, W. Zhang, *ICLR 2026* \| [[Code]](https://github.com/iNLP-Lab/PEAR)
+- [PEAR: Phase Entropy Aware Reward for Efficient Reasoning](https://proceedings.iclr.cc/paper_files/paper/2026/file/347109da60005491188d2d36ad0dde21-Paper-Conference.pdf), **C. Huang**, W. Lu, W. Zhang, *ICLR 2026* \| [[Code]](https://github.com/iNLP-Lab/PEAR)
 
 - [Text Clustering as Classification with LLMs](https://dl.acm.org/doi/pdf/10.1145/3767695.3769519), **C. Huang**, G. He, *Proceedings of SIGIR-AP 2025* \| [[Code]](https://github.com/ECNU-Text-Computing/Text-Clustering-via-LLM)
 
