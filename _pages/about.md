@@ -28,6 +28,7 @@ Before joining SUTD, I received my Master of Library & Information Science from 
 <span class='anchor' id='news'></span>
 
 # 🔥 News and Events
+- *2026.10*: &nbsp;🎉 New preprint "Beyond Perfect Teammates: Multi-Agent Collaboration with Unreliable Colleagues" is now available on arXiv.
 - *2026.10*: &nbsp;🌟 I will be attending **COLM 2026** in San Francisco. If you are around, feel free to reach out — I would be happy to connect!
 - *2026.07*: &nbsp;🎉 Paper "MoltNet: Understanding Social Behavior of AI Agents in the Agent-Native MoltBook" accepted to **COLM 2026**. It was also accepted to the **COLM 2026 Workshop on Agent Behavior**.
 - *2026.06*: &nbsp;🎉 New preprint "What Should Agents Say? Action-state Communication for Efficient Multi-Agent Systems" is now available on arXiv.
@@ -40,6 +41,8 @@ Before joining SUTD, I received my Master of Library & Information Science from 
 <span class='anchor' id='publications'></span>
 
 # 📝 Publications 
+
+- [Beyond Perfect Teammates: Multi-Agent Collaboration with Unreliable Colleagues](https://arxiv.org/abs/2610.16117), **C. Huang**, Y. Zhang, Y. Wu, Y. Deng, W. Zhang, *arXiv preprint arXiv:2610.16117, 2026* \| [[Code]](https://github.com/iNLP-Lab/UnCoBench) \| [[Dataset]](https://huggingface.co/datasets/iNLP-Lab/UnCoBench)
 
 - [What Should Agents Say? Action-state Communication for Efficient Multi-Agent Systems](https://arxiv.org/abs/2606.05304), **C. Huang**, Y. Wu, W. Zhang, *arXiv preprint arXiv:2606.05304, 2026* \| [[Code]](https://github.com/iNLP-Lab/PACT)
 
