@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🔈 About Me
-Currently I am a PhD student in the Information Systems Technology and Design (ISTD) pillar at the **Singapore University of Technology and Design (SUTD)**, where I joined in September 2024. I am fortunate to be supervised by Professor [Wenxuan Zhang](https://isakzhang.github.io/) and to be a member of the [iNLP Lab](https://isakzhang.github.io/group.html) at SUTD. My research focuses on **Natural Language Processing (NLP)**, with interests spanning large language model reasoning and efficiency.
+Currently I am a PhD student in the Information Systems Technology and Design (ISTD) pillar at the **Singapore University of Technology and Design (SUTD)**, where I joined in September 2024. I am fortunate to be supervised by Professor [Wenxuan Zhang](https://isakzhang.github.io/) and to be a member of the [iNLP Lab](https://isakzhang.github.io/group.html) at SUTD. My research focuses on **LLM efficiency** and **multi-agent communication**.
 
 Before joining SUTD, I received my Master of Library & Information Science from **East China Normal University** (2022–2024). Prior to that, I completed dual bachelor's degrees — in Business Administration from **East China Normal University** and in Global BBA from **Emlyon Business School** (2018–2022).
 
@@ -65,7 +65,7 @@ Before joining SUTD, I received my Master of Library & Information Science from 
 <span class='anchor' id='educations'></span>
 
 # 📖 Educations
-- *2024.09 - 2029.06 (expected)*, Doctor of Philosophy (PhD), Information Systems Technology and Design (ISTD), **Singapore University of Technology and Design (SUTD)**, Singapore.
+- *2024.09 - 2028.06 (expected)*, Doctor of Philosophy (PhD), Information Systems Technology and Design (ISTD), **Singapore University of Technology and Design (SUTD)**, Singapore.
 - *2022.09 - 2024.06*, Master of Library & Information Science (MLIS), **East China Normal University**, Shanghai, China. Main research focus: Natural Language Processing.
 - *2020.09 - 2022.06*, Bachelor, Global Bachelor Business Administration, **Emlyon Business School**, France.
 - *2018.09 - 2020.06*, Bachelor, Business Administration, **East China Normal University**, Shanghai, China.
